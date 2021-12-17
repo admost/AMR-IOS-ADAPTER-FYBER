@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterFyber'
-  s.version          = '7.9.0.2'
+  s.version          = '7.9.0.3'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited. 
@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
   s.platform 			= :ios
   s.ios.deployment_target = '9.0'
   s.vendored_libraries = 'AMRAdapterFyber/Libs/libAMRAdapterFyber.a'
-  s.dependency 'AMRSDK', '~> 1.4.84'
+  s.dependency 'AMRSDK', '~> 1.5.0'
   s.dependency 'Fyber_Marketplace_SDK', '7.9.0'
 end
