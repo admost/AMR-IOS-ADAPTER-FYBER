@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
  								}
   s.documentation_url = 'https://admost.github.io/amrios/'
   s.platform 			= :ios
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
   s.vendored_libraries = 'AMRAdapterFyber/Libs/libAMRAdapterFyber.a'
   s.dependency 'AMRSDK', '~> 1.5.0'
   s.dependency 'Fyber_Marketplace_SDK', '8.1.2'
