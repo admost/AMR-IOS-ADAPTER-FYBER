@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
   s.documentation_url = 'https://admost.github.io/amrios/'
   s.platform 			= :ios
   s.ios.deployment_target = '11.0'
+  s.swift_versions = ['5']
   s.vendored_frameworks = 'AMRAdapterFyber/Libs/AMRAdapterFyber.xcframework'
   s.pod_target_xcconfig = { 
     'OTHER_LDFLAGS' => '-ObjC -lc++',
