@@ -3,6 +3,9 @@
 Changelog for AMRAdapterFyber 
 Fyber_Marketplace_SDK [changelog](https://developer.digitalturbine.com/hc/en-us/articles/360010922578-Marketplace-iOS-Changelog)
 
+## [8.2.4.1] - 2023-10-25
+### Updated
+- Ad loading improvements.
 
 ## [8.2.4.0] - 2023-08-24
 ### Updated
