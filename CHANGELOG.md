@@ -3,6 +3,10 @@
 Changelog for AMRAdapterFyber 
 Fyber_Marketplace_SDK [changelog](https://developer.digitalturbine.com/hc/en-us/articles/360010922578-Marketplace-iOS-Changelog)
 
+## [8.2.6.1] - 2023-01-04
+### Updated
+- Sound Mute Controls Added
+
 ## [8.2.6.0] - 2023-11-20
 ### Updated
 - Offical release for Fyber_Marketplace_SDK 8.2.6
